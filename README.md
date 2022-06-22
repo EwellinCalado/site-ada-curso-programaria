@@ -3,4 +3,5 @@ Conhecimentos aplicados durante o curso de desenvolvimento Front-End Eu ProgrAmo
 Com este projeto iniciei meus estudos em HTML, CSS e JavaScript.
 
 Link do Replit: https://replit.com/@EwellinL/siteada#index.html
-Link do site finalizado: https://siteada.ewellinl.repl.co/?
+
+Link do site finalizado: https://siteada.ewellinl.repl.co/
